@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'ParkSnoopyInc',
+    description: 'Modified 3rd party registry of ParkSnoopyInc\'s.',
+    icon: 'https://raw.githubusercontent.com/ParkSnoopy/kasm-registry/1.0/site/public/ParkSnoopyInc.png',
+    listUrl: 'https://ParkSnoopyInc.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/ParkSnoopyInc/kasm-registry',
   },
   reactStrictMode: true,
   swcMinify: true,
